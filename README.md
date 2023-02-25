@@ -1,2 +1,2 @@
-# RockGame
-Jogo pedra papel tesoura em javascript e socketio para multplayer
+# RockGame Javascript, Socketio, Html & Css
+Jogo pedra papel tesoura multplayer
